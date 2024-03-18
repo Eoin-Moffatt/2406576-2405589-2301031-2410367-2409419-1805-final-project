@@ -8,6 +8,7 @@ MEMBERS: Finley Morris, Matt McConachie, Eoin Moffatt, Isabelle Griffiths, Silvi
 OVERVIEW OF GAME
 (What is your game about? What are its key mechanics? What are its main narrative
 ideas and themes?)
+- Files used in INDEX: sketch.js, player.js, endscreen.js, tilemap.js, tilerRules.js.
 - The player character wakes up in a field with no recollection of how they got there. Their natural instinct is to escape. Move around the area, picking up key items that will allow you to avoid obstacles and escape. 
 - Graphics inspired by classic Zelda and Crosscode 
 - approximately - 537 code lines (not counting unused code e.g failed.js)
@@ -102,6 +103,6 @@ Matt/Eoin - 5/3/2024
 - commented key code is in failed.js
 15/3/24
 - creating the floating platform
-- made so floating platform so it chnages direction
+- made so floating platform so it changes direction
 - floating platform also triggers boolean
 - *it's possible for the character to become stuck in the lava if moved at wrong time
