@@ -11,7 +11,8 @@ ideas and themes?)
 - The player character wakes up in a field with no recollection of how they got there. Their natural instinct is to escape. Move around the area, picking up key items that will allow you to avoid obstacles and escape. 
 - Graphics inspired by classic Zelda and Crosscode 
 - approximately - 537 code lines (not counting unused code e.g failed.js)
-- will leave the the tilemaps that we didnt end up coding on in the project for the sake of the project timeline. 
+- will leave the the tilemaps that we didnt end up coding on in the project for the sake of the project timeline.
+- themes: retro game, puzzle game, adventure game, high contrast colours, fantasy setting
 
 MECHANICS: 
 - player movement (using WASD)
