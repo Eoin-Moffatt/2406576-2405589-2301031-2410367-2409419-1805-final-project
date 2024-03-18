@@ -80,12 +80,12 @@ Isabelle's Updates:
 - I then added them to github. 
 
 Silvia's updates:
-- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art in general and the the aesthetic of classic Zelda.
+- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art and retro game in general and the the aesthetic of classic Zelda.
 - I've filled the load image function with the path to each asset.
 - Me and Isabelle deactivated the debug function and assembled the layout for the assets. 
 - I've worked on the code to create the end screen, adding custom text to match the aesthetic of the game.
-- In transferring the code to my laptop to the project folder, the colour change function stopped working. 
-- I've worked on the code for the tile rules and assigned numbers for which the character can or can't walk on. 
+- In transferring the code from my laptop to the project folder, the colour change function stopped working. 
+- I've worked on the code for the tile rules and assigned the numbers for which the character can or can't walk on. 
  
 
 
