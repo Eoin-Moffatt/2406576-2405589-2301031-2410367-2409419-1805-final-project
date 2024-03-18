@@ -66,15 +66,6 @@ the platform should trigger the boolean
 - UPDATE: PPLATFORM ACTUALLY MOVES 
 - do not a death screen or any kind of death mechanic - so the character wont dispear/get a 'game over' when you hit the lava* 
 
-
-
-Izzy and Ivi:
-- we created all assets to be used
-e.g: shed, grass, grass with flowerss, key, character, trees, rocks.
-- Placed each asset into the tile map and decided the layout of where they should go 
-- with the graph there was white lines caused by the stroke (245) in the debug function, which we resolved. 
-- stuggle of the tree asset filling the tile space, which we later resolved and redesigned and uploaded the new version onto the sketch.js. 
-
 Isabelle's Updates:
 05/03/2024
 - I created the key asset using piskel and got inspiration from looking up sprite key assets online. 
@@ -89,11 +80,13 @@ Isabelle's Updates:
 - I then added them to github. 
 
 Silvia's updates:
-- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art in general and the the aesthetic of 
-- I've filled the load image function with the path to each asset
-- Me and Isabelle deactiveted the debug function and assembled the layout for the assets 
-- i've worked on the code to create the end screen, adding custom text to match the aesthetic of the game 
-- I've worked on the code for the tile rules and assign 
+- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art in general and the the aesthetic of classic Zelda.
+- I've filled the load image function with the path to each asset.
+- Me and Isabelle deactivated the debug function and assembled the layout for the assets. 
+- I've worked on the code to create the end screen, adding custom text to match the aesthetic of the game.
+- In transferring the code to my laptop to the project folder, the colour change function stopped working. 
+- I've worked on the code for the tile rules and assigned numbers for which the character can or can't walk on. 
+ 
 
 
 Eoin's Updates;
