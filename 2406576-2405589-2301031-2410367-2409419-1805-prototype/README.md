@@ -78,11 +78,11 @@ Isabelle's Updates:
 - I then added them to github. 
 
 Silvia's updates:
-- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art in general and the aesthetic of 
-- I've filled the load image function with the path to each asset
-- Me and Isabelle deactiveted the debug function and assembled the layout for the assets 
-- I've worked on the code to create the end screen, adding custom text to match the aesthetic of the game 
-- I've made the tile rule, assigning the numbers for which the character can or can't walk 
+- I've been working on some of the project assets: grass, flowers, rocks, boulders, lava, ladder, character, shed and fence. To create them I've used Piskel, website to design pixel art. The inspiration comes from pixel art in general and the aesthetic of classic Zelda.
+- I've filled the load image function with the path to each asset.
+- Me and Isabelle deactiveted the debug function and assembled the layout for the assets.
+- I've worked on the code to create the end screen, adding custom text to match the aesthetic of the game.
+- I've made the tile rule, assigning the numbers for which the character can or can't walk.
 
 Eoin's Updates;
 Matt/Eoin - 5/3/2024
@@ -95,3 +95,4 @@ Matt/Eoin - 5/3/2024
 - made so floating platform so it chnages direction
 - floating platform also triggers boolean
 - *it's possible for the character to become stuck in the lava if moved at wrong time
+
