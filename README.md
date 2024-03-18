@@ -75,7 +75,7 @@ Isabelle's Updates:
 14/03/2024
 - Ivi and I figured out how to get ride of the white lines by editing the code by doing no stroke. 
 - I then moved onto creating more assets which was the planks of wood and the blank asset. 
-- I then coded a whole new tilemap with the wooden planks and the blank tiles. which is seen under isabelle's code.js. (Unfortunately this code will not be used)
+- I then coded a whole new tilemap with the wooden planks and the blank tiles. which is seen under isabelle's code.js. (Unfortunately this code will not be used due to the change of idea to make it into one tilemap instead of seperate ones.)
 - I then created more assets such as the floating platform and mountain tiles.
 - I then added them to github. 
 
